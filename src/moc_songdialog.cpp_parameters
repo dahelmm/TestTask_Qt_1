@@ -1,0 +1,6 @@
+-IC:/songlist
+-IC:/songlist
+-DWIN32
+-o
+C:/songlist/src/moc_songdialog.cpp
+C:/songlist/src/songdialog.h

@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+512cb828e7f793aedf71b5a50171a6ee CMakeFiles/songlist_autogen
+26760d149bb5918e749502d072ab586c src/moc_songdialog.cpp
+317207d4b2d53ef7025eaa5e424e2db3 src/moc_songlistdialog.cpp
+5f914ddc64067370fb00e0bfe04d6672 ui_songdialog.h
+3f1ae529e4b9d6f20e04ff956c8f7478 ui_songlistdialog.h

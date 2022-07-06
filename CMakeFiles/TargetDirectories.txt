@@ -1,0 +1,4 @@
+C:/songlist/CMakeFiles/songlist.dir
+C:/songlist/CMakeFiles/edit_cache.dir
+C:/songlist/CMakeFiles/rebuild_cache.dir
+C:/songlist/CMakeFiles/songlist_autogen.dir
